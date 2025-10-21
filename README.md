@@ -13,6 +13,7 @@ Este proyecto se desarrolla en el marco de la competencia de Kaggle para el curs
 El proyecto está organizado en varios notebooks de Jupyter, cada uno enfocado en una etapa específica del proceso:
 
 *   **`01 - exploración.ipynb`**: Notebook de la **Entrega 1**. Contiene el código para la carga de los datos (`train.csv` y `test.csv`) y un análisis exploratorio inicial (EDA) para entender la distribución, los tipos de datos y los valores faltantes.
+*   *   **`02 - preprocesado.ipynb`**: Notebook de la **Entrega 2**. Aquí se realizan las tareas de limpieza, manejo de valores nulos, transformación de variables categóricas a numéricas (ej. One-Hot Encoding) y la ingeniería de características (feature engineering).
 
 
 ## 💻 Tecnologías Utilizadas
