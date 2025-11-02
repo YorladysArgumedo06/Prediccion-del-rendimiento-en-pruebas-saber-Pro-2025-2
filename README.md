@@ -16,7 +16,7 @@ El proyecto está organizado en varios notebooks de Jupyter, cada uno enfocado e
 
 *   **`01 - exploración.ipynb`**: Notebook de la **Entrega 1**. Contiene el código para la carga de los datos (`train.csv` y `test.csv`) y un análisis exploratorio inicial (EDA) para entender la distribución, los tipos de datos y los valores faltantes.
 *   **`02 - preprocesado.ipynb`**: Notebook de la **Entrega 2**. Aquí se realizan las tareas de limpieza, manejo de valores nulos, transformación de variables categóricas a numéricas (ej. One-Hot Encoding) y la ingeniería de características (feature engineering).  
-    🎥 **Presentación Entrega 2:** [Ver en YouTube](https://youtu.be/sQqJiu5ecUU)
+    🎥 **Presentación Entrega 2:** [Ver en YouTube](https://youtu.be/Rd0AViPs4NQ)
 
 ## 💻 Tecnologías Utilizadas
 
